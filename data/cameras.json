@@ -1,0 +1,126 @@
+[
+  {
+    "id": "wrightsville_beach",
+    "name": "Wrightsville Beach Pier",
+    "city": "Wilmington",
+    "lat": 34.2123,
+    "lon": -77.7960,
+    "provider": "Surfline",
+    "website_url": "https://www.surfline.com/surf-report/wrightsville-beach/5842041f4e65fad6a7708842",
+    "source_url": "https://surfchex.com/wrightsville-beach/",
+    "embed_url": "",
+    "notes": "Public Surfline page. Add embed_url (m3u8 or iframe) if available to enable inline playback."
+  },
+  {
+    "id": "carolina_beach_boardwalk",
+    "name": "Carolina Beach Boardwalk",
+    "city": "Carolina Beach",
+    "lat": 34.0259,
+    "lon": -77.8806,
+    "provider": "Local / Public Cam",
+    "website_url": "https://www.carolinabeach.org/",
+    "source_url": "https://surfchex.com/carolina-beach/",
+    "embed_url": "",
+    "notes": "Check municipal or tourism pages for live cam embeds."
+  },
+  {
+    "id": "kure_beach",
+    "name": "Kure Beach Pier",
+    "city": "Kure Beach",
+    "lat": 33.9948,
+    "lon": -77.9113,
+    "provider": "Surf Cam / Local",
+    "website_url": "",
+    "embed_url": "",
+    "notes": "Add a provider link or stream URL when available."
+  },
+  {
+    "id": "atlantic_beach_fort_macon",
+    "name": "Atlantic Beach / Fort Macon",
+    "city": "Atlantic Beach",
+    "lat": 34.6872,
+    "lon": -76.7165,
+    "provider": "Local / Tourism",
+    "website_url": "https://www.nps.gov/foma/index.htm",
+    "embed_url": "",
+    "notes": "Fort Macon and Atlantic Beach often have beach cams—populate embed_url if you find one."
+  },
+  {
+    "id": "surf_city",
+    "name": "Surf City Pier",
+    "city": "Surf City (Topsail Island)",
+    "lat": 34.3548,
+    "lon": -77.3967,
+    "provider": "Surfline / Local",
+    "website_url": "https://www.surfline.com/surf-report/surf-city/5842041f4e65fad6a77088xx",
+    "embed_url": "",
+    "notes": "Replace with the correct provider link if you have it."
+  },
+  {
+    "id": "morehead_city",
+    "name": "Morehead City Shore Cam",
+    "city": "Morehead City",
+    "lat": 34.7202,
+    "lon": -76.7261,
+    "provider": "Local / NOAA",
+    "website_url": "",
+    "embed_url": "",
+    "notes": "NOAA or local harbormasters sometimes host views—add when available."
+  },
+  {
+    "id": "oak_island",
+    "name": "Oak Island Pier",
+    "city": "Oak Island",
+    "lat": 33.9092,
+    "lon": -78.1296,
+    "provider": "Local",
+    "website_url": "",
+    "embed_url": "",
+    "notes": "General placeholder. Update with a real stream URL or provider page."
+  },
+  {
+    "id": "carolina_beach_pier",
+    "name": "Carolina Beach Pier / Boardwalk",
+    "city": "Carolina Beach",
+    "lat": 34.0279,
+    "lon": -77.8806,
+    "provider": "Town / Tourism",
+    "website_url": "https://www.carolinabeach.gov/",
+    "source_url": "https://surfchex.com/cams/carolina-beach-center-pier-webcam/",
+    "embed_url": "",
+    "notes": "Town/county tourism pages sometimes embed a live cam; needs a targeted scrape to find YouTube/EarthCam/iframe or m3u8 stream."
+  },
+  {
+    "id": "wilmington_riverwalk",
+    "name": "Wilmington Riverwalk (Downtown)",
+    "city": "Wilmington",
+    "lat": 34.2260,
+    "lon": -77.9447,
+    "provider": "Wilmington & Beaches (tourism)",
+    "website_url": "https://www.wilmingtonandbeaches.com/plan-your-trip/webcams/",
+    "embed_url": "",
+    "notes": "Tourism site lists webcams, but assets may be behind JS/tracking. I can fetch embed endpoints if you want me to try targeted scraping."
+  },
+  {
+    "id": "fort_fisher",
+    "name": "Fort Fisher / South End (Pleasure Island)",
+    "city": "Kure Beach / South End",
+    "lat": null,
+    "lon": null,
+    "provider": "Local / State",
+    "website_url": "",
+    "embed_url": "",
+    "notes": "Fort Fisher area often appears on regional cam lists; no direct public stream found yet."
+  },
+  {
+    "id": "figure_eight_island",
+    "name": "Figure Eight Island (Private)",
+    "city": "Figure Eight Island",
+    "lat": null,
+    "lon": null,
+    "provider": "Private HOA",
+    "website_url": "",
+    "embed_url": "",
+    "notes": "Private community — public cams typically not available. Contact HOA for access."
+  }
+]
