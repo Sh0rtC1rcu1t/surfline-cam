@@ -6,8 +6,8 @@ Ways to use:
 - Host your own server for free.  
 
 To change the spot: 
-- Change source line (26) from https://cams.cdn-surfline.com/cdn-wc/wc-lowers/playlist.m3u8. Use cdn-ec for east coast and change the following field for spots. 
-- If you want to update the "poster" or cover photo: Change poster line (24): us-west-2/wc-lowers
+- Change source line (24) from https://cams.cdn-surfline.com/cdn-wc/wc-lowers/playlist.m3u8. Use cdn-ec for east coast, etc and change the following field for spots. For spot names that are not listed below, go to their site and use inspect element on the cam previews to get the formal spot name. Or just open the preview image in a new tab.
+- If you want to update the "poster" or cover photo: Change poster line (23): us-west-2/wc-lowers
 
 [WC] List of spot names
 
