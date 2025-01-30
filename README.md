@@ -1,4 +1,4 @@
-Extremely simple HTML file to display any Surfline cam efficiently. Using water.css and bootstrap libraries for styling and structure. 
+Extremely simple HTML file to display any Surfline cam efficiently. Using water.css and bootstrap libraries for styling and structure. Also using video.js for a better/more effective display of the stream. It offers more customization, too. 
 
 Ways to use: 
 - Download template file and open it locally in any browser.
