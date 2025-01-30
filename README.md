@@ -1,5 +1,9 @@
 Extremely simple HTML file to display any Surfline cam efficiently. Using water.css and bootstrap libraries for styling and structure. 
 
+Ways to use: 
+- Download template file and open it locally in any browser.
+- Use an online HTML viewer like https://html.onlineviewer.net/
+- Host your own server for free.  
 
 To change the spot: 
 - Change source line (26) from https://cams.cdn-surfline.com/cdn-wc/wc-lowers/playlist.m3u8. Use cdn-ec for east coast and change the following field for spots. 
