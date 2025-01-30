@@ -2,7 +2,7 @@ Extremely simple HTML file to display any Surfline cam efficiently. Using water.
 
 Ways to use: 
 - Download template file and open it locally in any browser.
-- Use an online HTML viewer like https://html.onlineviewer.net/
+- Use an online HTML viewer like https://html.onlineviewer.net/ by simply copying over all the template code
 - Host your own server for free.  
 
 To change the spot: 
