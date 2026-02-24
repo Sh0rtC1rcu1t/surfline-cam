@@ -49,7 +49,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
     <script>
       async function loadCams() {
-        const res = await fetch('data/cameras.json');
+        const res = await fetch('/api/cameras');
         const cams = await res.json();
         const container = document.getElementById('cams');
         const template = document.getElementById('cam-card');

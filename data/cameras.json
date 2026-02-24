@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 [
   {
     "id": "wrightsville_beach",
@@ -124,3 +125,49 @@
     "notes": "Private community — public cams typically not available. Contact HOA for access."
   }
 ]
+=======
+{
+  "cameras": [
+    {
+      "id": "ec-seabrooknh",
+      "name": "Seabrook, NH",
+      "region": "ec",
+      "stream_url": "https://cams.cdn-surfline.com/cdn-ec/ec-seabrooknh/playlist.m3u8",
+      "poster_url": "https://camstills.cdn-surfline.com/us-east-1/ec-seabrooknh/latest_small.jpg",
+      "location": "Seabrook, New Hampshire"
+    },
+    {
+      "id": "ec-hampton",
+      "name": "Hampton Beach, NH",
+      "region": "ec",
+      "stream_url": "https://cams.cdn-surfline.com/cdn-ec/ec-hampton/playlist.m3u8",
+      "poster_url": "https://camstills.cdn-surfline.com/us-east-1/ec-hampton/latest_small.jpg",
+      "location": "Hampton Beach, New Hampshire"
+    },
+    {
+      "id": "ec-pointjudith",
+      "name": "Point Judith, RI",
+      "region": "ec",
+      "stream_url": "https://cams.cdn-surfline.com/cdn-ec/ec-pointjudith/playlist.m3u8",
+      "poster_url": "https://camstills.cdn-surfline.com/us-east-1/ec-pointjudith/latest_small.jpg",
+      "location": "Point Judith, Rhode Island"
+    },
+    {
+      "id": "wc-lowers",
+      "name": "Lowers",
+      "region": "wc",
+      "stream_url": "https://cams.cdn-surfline.com/cdn-wc/wc-lowers/playlist.m3u8",
+      "poster_url": "https://camstills.cdn-surfline.com/us-west-2/wc-lowers/latest_small.jpg",
+      "location": "San Clemente, California"
+    },
+    {
+      "id": "id-uluwatu",
+      "name": "Uluwatu",
+      "region": "int",
+      "stream_url": "https://cams.cdn-surfline.com/cdn-int/id-uluwatu/playlist.m3u8",
+      "poster_url": "https://camstills.cdn-surfline.com/ap-southeast-1/id-uluwatu/latest_small.jpg",
+      "location": "Uluwatu, Bali, Indonesia"
+    }
+  ]
+}
+>>>>>>> Stashed changes
